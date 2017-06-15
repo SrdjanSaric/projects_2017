@@ -278,9 +278,16 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
+					"Srdjan",
+					"Saric",
+					"RA-176/2013",
+					"xxx@yyy",
+					0
+				),
+				Student(
+					"Strahinja",
+					"vuckovic",
+					"RA-198/2013",
 					"xxx@yyy",
 					0
 				),
@@ -294,7 +301,7 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/strajce/Dimmer",
 		),
 		false
 	),
